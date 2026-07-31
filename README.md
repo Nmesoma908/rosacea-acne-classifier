@@ -23,6 +23,6 @@ Deployed on Streamlit Community Cloud: https://rosacea-acne-classifier-b5u8mqnnd
 | Jackson Godspower | 22/EG/CE/1394 |Jacksongodspower947-svg| Model Training |
 | Essien Iniubongabasi Nkereuwem | 22/EG/CE/1364 |Ihnee | Data Preprocessing |
 | Kudos Samuel | 22/EG/CE/1374 |KudosUnusual001| Assembling (Group Head) |
-| Isaiah Israel Etim | 22/EG/CE/1404 | (add) |App Development (Streamlit) |
+| Isaiah Israel Etim | 22/EG/CE/1404 | israelisaiah100-lab |App Development (Streamlit) |
 | Ukam Festus | 22/EG/CE/1354 |Festusukam004-cpu | Testing & Deployment |
 | Cephas Joshua | 22/EG/CE/1414 |cephas321|Documentation & Report Writing|
