@@ -25,5 +25,4 @@ Deployed on Streamlit Community Cloud: https://rosacea-acne-classifier-b5u8mqnnd
 | Kudos Samuel | 22/EG/CE/1374 |KudosUnusual001| Group Head |
 | Isaiah Israel Etim | 22/EG/CE/1404 | (add) | (add) |
 | Ukam Festus | 22/EG/CE/1354 | (add) | (add) |
-| Akpan Victor Matthew | 22/EG/CE/1314 | (add) | (add) |
-| Cephas Joshua | 22/EG/CE/1414 | (add) | (add) |
+| Cephas Joshua | 22/EG/CE/1414 |cephas321| (add) |
